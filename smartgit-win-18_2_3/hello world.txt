@@ -1,6 +1,4 @@
 print ("Hello world!");
-<<<<<<< HEAD
 print ("hi evebody")
-=======
 print ("hello")
->>>>>>> feature/goodby
+print ("Hello my dear friend")
